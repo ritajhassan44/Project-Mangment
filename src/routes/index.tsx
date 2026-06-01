@@ -30,7 +30,7 @@ function Index() {
       <header className="mx-auto flex max-w-7xl items-center justify-between px-4 py-5">
         <div className="flex items-center gap-2">
           <span className="flex h-9 w-9 items-center justify-center rounded-lg" style={{ background: "var(--gradient-primary)" }}>
-            <Briefcase className="h-4.5 w-4.5 text-primary-foreground" />
+            <Briefcase className="h-5 w-5 text-primary-foreground" />
           </span>
           <span className="font-display text-lg font-bold">JobTrackr</span>
         </div>
